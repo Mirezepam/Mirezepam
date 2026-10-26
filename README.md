@@ -1,51 +1,51 @@
 <div align="center">
 
-<img src="/assets/stream.svg" alt="▶ live — Mirezepam's zatsudan stream: coding till sunrise with P-chan" width="100%"/>
+<img src="/assets/webcam_ame.svg" alt="Webcam — Ame at 3:47 AM: stress 100, mental darkness 100, posting on her ura account" width="100%"/>
 
 </div>
 
-### ♡ Poketter
+### ☾ Poketter ─ ura account
 
-> **Mirezepam** ✧ `@Mirezepam` · DAY 1
+> **ura_Mirezepam** · `@ura_Mirezepam` · 3:47 AM
 >
-> hiii P-chan!! i make things on the internet (｡•̀ᴗ-)✧<br/>
-> right now: a dual-screen **Nintendo 3DS port** of NEEDY GIRL OVERDOSE,<br/>
-> written in **C + Lua**, plus **Discord bots** and little **websites** ♡<br/>
-> if my code makes you happy, a ⭐ is my favourite medicine
+> can't sleep again. so i code.<br/>
+> C and Lua for the engine, Rust for the bots, Python for the tools, a little web when i'm bored.<br/>
+> if you star a repo i'll pretend i'm not refreshing the page every 5 minutes.<br/>
+> (i am refreshing the page every 5 minutes.)
 >
-> 🔁 99 &nbsp;&nbsp; ♡ 1,000,000 &nbsp;&nbsp; 💬 0
+> 🔁 0 &nbsp;&nbsp; ♡ 3 &nbsp;&nbsp; 💬 0 &nbsp;&nbsp; <sub>· this post may be deleted later</sub>
 
 <div align="center">
 
-<img src="/assets/desktop.svg" alt="Windose desktop: Task Manager, Medicine (C, Lua, Rust, Python, JS, web) and a JINE chat with Ame" width="100%"/>
+<img src="/assets/desktop_ame.svg" alt="Windose at night: diary.txt, the prescription list of languages, and 37 unread JINE messages from Ame" width="100%"/>
 
 </div>
 
-### 📡 Stream schedule
+### 💊 things i made instead of sleeping
 
-| | stream | what happens |
+| | file | notes from ame |
 |:-:|---|---|
-| 🎮 | **NEEDY GIRL OVERDOSE 3DS** *(private, coming soon)* | Windose on two screens: Ame's webcam on top, the touch desktop below. C engine + Lua, ES / EN / JA |
-| 🤖 | **SCENE-BOT** *(private)* | all-in-one Discord bot controlled by AI — music, TTS, levels, moderation… written in Rust |
-| 🌐 | [**LODORUM-front**](https://github.com/Mirezepam/LODORUM-front) | web front-end |
-| 💌 | [**MirocHey**](https://github.com/Mirezepam/MirocHey) | a little web page |
-| 🤖 | [**rei-bot**](https://github.com/Mirezepam/rei-bot) · [**TURBO-BOT-V3**](https://github.com/Mirezepam/TURBO-BOT-V3) | the first bots, where it all began |
+| 🎮 | **NEEDY GIRL OVERDOSE 3DS** *(private)* | i put myself inside a Nintendo 3DS. two screens. no escape. |
+| 🤖 | **SCENE-BOT** *(private)* | a Discord bot that talks to people so i don't have to. Rust. |
+| 🌐 | [**LODORUM-front**](https://github.com/Mirezepam/LODORUM-front) | a website. it's fine. it's fine. |
+| 💌 | [**MirocHey**](https://github.com/Mirezepam/MirocHey) | a small page. please look at it. |
+| 🤖 | [**rei-bot**](https://github.com/Mirezepam/rei-bot) · [**TURBO-BOT-V3**](https://github.com/Mirezepam/TURBO-BOT-V3) | my first bots. they never left me. |
 
 <details>
-<summary>🔒 <b>ura account</b> (do not open)</summary>
+<summary>✨ <b>public account</b> (the version everyone likes)</summary>
 
 <br/>
 
-> **uraMirezepam** · 3:47 AM
+> **OMGkawaiiDev** · `@Mirezepam` · DAY 1
 >
-> the build failed again.<br/>
-> it's fine. it's fine. it's fine.<br/>
-> one more commit and then i'll sleep. (i will not sleep.)
+> Kashikoma!! ✧ internet angel developer here ♡<br/>
+> everything is great and i slept 8 hours!!! ☆<br/>
+> stars are my favourite medicine (｡•̀ᴗ-)✧
 
 </details>
 
 <div align="center">
 
-<sub>♡ fan-made profile · NEEDY GIRL OVERDOSE characters, sprites and fonts © WSS playground / xemono · not affiliated with the developers ♡</sub>
+<sub>☾ fan-made profile · NEEDY GIRL OVERDOSE characters, sprites and fonts © WSS playground / xemono · not affiliated with the developers ☾</sub>
 
 </div>
