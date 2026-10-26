@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/assets/webcam_ame.svg" alt="Webcam — Ame at 3:47 AM: stress 100, mental darkness 100, posting on her ura account" width="100%"/>
+<img src="/assets/webcam_ame_v5.svg" alt="Webcam — Ame at 3:47 AM: stress 100, mental darkness 100, posting on her ura account" width="100%"/>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="/assets/desktop_ame.svg" alt="Windose at night: diary.txt, the prescription list of languages, and 37 unread JINE messages from Ame" width="100%"/>
+<img src="/assets/desktop_ame_v5.svg" alt="Windose at night: diary.txt, the prescription list of languages, and 37 unread JINE messages from Ame" width="100%"/>
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="/assets/engineer_ame.svg" alt="resume.txt — Mirezepam, software engineer: languages (C++, Java, Python, Kotlin, C, C#, Rust, JavaScript, TypeScript, SQL, Lua, PHP, HTML/CSS, Bash), backend & data (REST APIs, Node.js, MySQL, PostgreSQL, SQLite, Firebase), cybersecurity (pentesting, web security, network security), platforms & tools (Android, desktop, web, Linux, Git, GitHub, Docker, Unity, Gradle, CMake)" width="100%"/>
+<img src="/assets/engineer_ame_v5.svg" alt="resume.txt — Mirezepam, software engineer: languages (C++, Java, Python, Kotlin, C, C#, Rust, JavaScript, TypeScript, SQL, Lua, PHP, HTML/CSS, Bash), backend & data (REST APIs, Node.js, MySQL, PostgreSQL, SQLite, Firebase), cybersecurity (pentesting, web security, network security), platforms & tools (Android, desktop, web, Linux, Git, GitHub, Docker, Unity, Gradle, CMake)" width="100%"/>
 
 </div>
 

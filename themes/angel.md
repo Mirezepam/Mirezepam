@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/assets/stream.svg" alt="▶ live — Mirezepam's zatsudan stream: coding till sunrise with P-chan" width="100%"/>
+<img src="/assets/stream_v5.svg" alt="▶ live — Mirezepam's zatsudan stream: coding till sunrise with P-chan" width="100%"/>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="/assets/desktop.svg" alt="Windose desktop: Task Manager, Medicine (C, Lua, Rust, Python, JS, web) and a JINE chat with Ame" width="100%"/>
+<img src="/assets/desktop_v5.svg" alt="Windose desktop: Task Manager, Medicine (C, Lua, Rust, Python, JS, web) and a JINE chat with Ame" width="100%"/>
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="/assets/engineer.svg" alt="Software Engineer — Mirezepam: languages (C++, Java, Python, Kotlin, C, C#, Rust, JavaScript, TypeScript, SQL, Lua, PHP, HTML/CSS, Bash), backend & data (REST APIs, Node.js, MySQL, PostgreSQL, SQLite, Firebase), cybersecurity (pentesting, web security, network security), platforms & tools (Android, desktop, web, Linux, Git, GitHub, Docker, Unity, Gradle, CMake)" width="100%"/>
+<img src="/assets/engineer_v5.svg" alt="Software Engineer — Mirezepam: languages (C++, Java, Python, Kotlin, C, C#, Rust, JavaScript, TypeScript, SQL, Lua, PHP, HTML/CSS, Bash), backend & data (REST APIs, Node.js, MySQL, PostgreSQL, SQLite, Firebase), cybersecurity (pentesting, web security, network security), platforms & tools (Android, desktop, web, Linux, Git, GitHub, Docker, Unity, Gradle, CMake)" width="100%"/>
 
 </div>
 
