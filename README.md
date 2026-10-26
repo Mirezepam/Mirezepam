@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="mirocoAM — internet angel developer" width="100%"/>
-
-<img src="assets/jine.svg" alt="JINE chat: P-chan!! you came — porting NEEDY GIRL OVERDOSE to the 3DS" width="100%"/>
+<img src="assets/stream.svg" alt="▶ live — mirocoAM's stream: porting NEEDY GIRL OVERDOSE to the 3DS" width="100%"/>
 
 </div>
 
@@ -11,7 +9,7 @@
 > **mirocoAM** ✧ `@mirocoAM` · DAY 1
 >
 > hiii P-chan!! i make things on the internet (｡•̀ᴗ-)✧
-> right now: a dual-screen **Nintendo 3DS port** of a certain stream-heroine game,
+> right now: a dual-screen **Nintendo 3DS port** of NEEDY GIRL OVERDOSE,
 > written in **C + Lua**, plus **Discord bots** and little **websites** ♡
 > if my code makes you happy, a ⭐ is my favourite medicine
 >
@@ -19,8 +17,7 @@
 
 <div align="center">
 
-<img src="assets/status.svg" alt="Task Manager: Followers, Stress, Affection, Mental Darkness" width="49%"/>
-<img src="assets/stack.svg" alt="Medicine: C, Lua, Rust, Python, JS, HTML/CSS, PHP, Git" width="49%"/>
+<img src="assets/desktop.svg" alt="Windose desktop: Task Manager, Medicine (C, Lua, Rust, Python, JS, web) and a JINE chat with Ame" width="100%"/>
 
 </div>
 
@@ -49,8 +46,6 @@
 
 <div align="center">
 
-<img src="assets/taskbar.svg" alt="taskbar: Start · DAY 1 · 23:59" width="100%"/>
-
-<sub>♡ fan-made theme inspired by NEEDY GIRL OVERDOSE (© WSS playground / xemono) · all art on this page is original ♡</sub>
+<sub>♡ fan-made profile · NEEDY GIRL OVERDOSE characters, sprites and fonts © WSS playground / xemono · not affiliated with the developers ♡</sub>
 
 </div>
