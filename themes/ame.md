@@ -26,12 +26,12 @@
 
 <div align="center">
 
-<img src="/assets/engineer_ame.svg" alt="resume.txt — Mirezepam, software engineer: languages (C++, Java, Python, Kotlin, C, C#, Rust, JavaScript, TypeScript, SQL, Lua, PHP, HTML/CSS, Bash), backend & data (REST APIs, Node.js, MySQL, PostgreSQL, SQLite, Firebase), cybersecurity (pentesting, web & network security, OWASP Top 10, cryptography, reverse engineering, Kali Linux, Burp Suite, Wireshark, Nmap, CTFs, hardening), platforms & tools (Android, desktop, web, Linux, Git, GitHub, Docker, Unity, Gradle, CMake)" width="100%"/>
+<img src="/assets/engineer_ame.svg" alt="resume.txt — Mirezepam, software engineer: languages (C++, Java, Python, Kotlin, C, C#, Rust, JavaScript, TypeScript, SQL, Lua, PHP, HTML/CSS, Bash), backend & data (REST APIs, Node.js, MySQL, PostgreSQL, SQLite, Firebase), cybersecurity (pentesting, web security, network security), platforms & tools (Android, desktop, web, Linux, Git, GitHub, Docker, Unity, Gradle, CMake)" width="100%"/>
 
 </div>
 
 > i'm a **software engineer**. i build **apps, backends, components and tools**. mobile, desktop, web. all of it.<br/>
-> i also do **cybersecurity**: pentesting, web & network security, CTFs. i always know who's watching.<br/>
+> i also do **cybersecurity**: pentesting, web security, network security. i always know who's watching.<br/>
 > during the day everything works. at 3 AM i refactor everything and regret it.
 
 ### 💊 things i made instead of sleeping
