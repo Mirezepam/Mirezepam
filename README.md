@@ -8,9 +8,9 @@
 
 > **mirocoAM** ✧ `@mirocoAM` · DAY 1
 >
-> hiii P-chan!! i make things on the internet (｡•̀ᴗ-)✧
-> right now: a dual-screen **Nintendo 3DS port** of NEEDY GIRL OVERDOSE,
-> written in **C + Lua**, plus **Discord bots** and little **websites** ♡
+> hiii P-chan!! i make things on the internet (｡•̀ᴗ-)✧<br/>
+> right now: a dual-screen **Nintendo 3DS port** of NEEDY GIRL OVERDOSE,<br/>
+> written in **C + Lua**, plus **Discord bots** and little **websites** ♡<br/>
 > if my code makes you happy, a ⭐ is my favourite medicine
 >
 > 🔁 99 &nbsp;&nbsp; ♡ 1,000,000 &nbsp;&nbsp; 💬 0
@@ -38,8 +38,8 @@
 
 > **uramirocoAM** · 3:47 AM
 >
-> the build failed again.
-> it's fine. it's fine. it's fine.
+> the build failed again.<br/>
+> it's fine. it's fine. it's fine.<br/>
 > one more commit and then i'll sleep. (i will not sleep.)
 
 </details>
