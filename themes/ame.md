@@ -9,7 +9,7 @@
 > **ura_Mirezepam** · `@ura_Mirezepam` · 3:47 AM
 >
 > can't sleep again. so i code.<br/>
-> (i'm a **software engineer**. it's my job. it's also my coping mechanism.)<br/>
+> (i'm a **software engineer** and i do **cybersecurity**. it's my job. it's also my coping mechanism.)<br/>
 > C and Lua for the engine, Rust for the bots, Python for the tools, a little web when i'm bored.<br/>
 > if you star a repo i'll pretend i'm not refreshing the page every 5 minutes.<br/>
 > (i am refreshing the page every 5 minutes.)
@@ -26,11 +26,12 @@
 
 <div align="center">
 
-<img src="/assets/engineer_ame.svg" alt="resume.txt — Mirezepam, software engineer: languages (C++, Java, Python, Kotlin, C, C#, Rust, JavaScript, TypeScript, SQL, Lua, PHP, HTML/CSS, Bash), backend & data (REST APIs, Node.js, MySQL, PostgreSQL, SQLite, Firebase), platforms & tools (Android, desktop, web, Linux, Git, GitHub, Docker, Unity, Gradle, CMake)" width="100%"/>
+<img src="/assets/engineer_ame.svg" alt="resume.txt — Mirezepam, software engineer: languages (C++, Java, Python, Kotlin, C, C#, Rust, JavaScript, TypeScript, SQL, Lua, PHP, HTML/CSS, Bash), backend & data (REST APIs, Node.js, MySQL, PostgreSQL, SQLite, Firebase), cybersecurity (pentesting, web & network security, OWASP Top 10, cryptography, reverse engineering, Kali Linux, Burp Suite, Wireshark, Nmap, CTFs, hardening), platforms & tools (Android, desktop, web, Linux, Git, GitHub, Docker, Unity, Gradle, CMake)" width="100%"/>
 
 </div>
 
 > i'm a **software engineer**. i build **apps, backends, components and tools**. mobile, desktop, web. all of it.<br/>
+> i also do **cybersecurity**: pentesting, web & network security, CTFs. i always know who's watching.<br/>
 > during the day everything works. at 3 AM i refactor everything and regret it.
 
 ### 💊 things i made instead of sleeping

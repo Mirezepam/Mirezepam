@@ -9,7 +9,7 @@
 > **Mirezepam** ✧ `@Mirezepam` · DAY 1
 >
 > hiii P-chan!! i make things on the internet (｡•̀ᴗ-)✧<br/>
-> **software engineer** by day ✧ internet angel by night ♡<br/>
+> **software engineer** & **cybersecurity** nerd by day ✧ internet angel by night ♡<br/>
 > right now: a dual-screen **Nintendo 3DS port** of NEEDY GIRL OVERDOSE,<br/>
 > written in **C + Lua**, plus **Discord bots** and little **websites** ♡<br/>
 > if my code makes you happy, a ⭐ is my favourite medicine
@@ -26,12 +26,13 @@
 
 <div align="center">
 
-<img src="/assets/engineer.svg" alt="Software Engineer — Mirezepam: languages (C++, Java, Python, Kotlin, C, C#, Rust, JavaScript, TypeScript, SQL, Lua, PHP, HTML/CSS, Bash), backend & data (REST APIs, Node.js, MySQL, PostgreSQL, SQLite, Firebase), platforms & tools (Android, desktop, web, Linux, Git, GitHub, Docker, Unity, Gradle, CMake)" width="100%"/>
+<img src="/assets/engineer.svg" alt="Software Engineer — Mirezepam: languages (C++, Java, Python, Kotlin, C, C#, Rust, JavaScript, TypeScript, SQL, Lua, PHP, HTML/CSS, Bash), backend & data (REST APIs, Node.js, MySQL, PostgreSQL, SQLite, Firebase), cybersecurity (pentesting, web & network security, OWASP Top 10, cryptography, reverse engineering, Kali Linux, Burp Suite, Wireshark, Nmap, CTFs, hardening), platforms & tools (Android, desktop, web, Linux, Git, GitHub, Docker, Unity, Gradle, CMake)" width="100%"/>
 
 </div>
 
 > ✧ i'm a **software engineer** ♡ i build **apps, backends, components and tools** — mobile, desktop and web ✧<br/>
-> if it compiles, i can make it kawaii ♡
+> i also break things on purpose: **pentesting, web & network security, CTFs** 🔒<br/>
+> if it compiles, i can make it kawaii ♡ if it's vulnerable, i'll find it ♡
 
 ### 📡 Stream schedule
 
