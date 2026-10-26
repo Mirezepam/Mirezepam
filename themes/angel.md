@@ -9,6 +9,7 @@
 > **Mirezepam** ✧ `@Mirezepam` · DAY 1
 >
 > hiii P-chan!! i make things on the internet (｡•̀ᴗ-)✧<br/>
+> **software engineer** by day ✧ internet angel by night ♡<br/>
 > right now: a dual-screen **Nintendo 3DS port** of NEEDY GIRL OVERDOSE,<br/>
 > written in **C + Lua**, plus **Discord bots** and little **websites** ♡<br/>
 > if my code makes you happy, a ⭐ is my favourite medicine
@@ -20,6 +21,16 @@
 <img src="/assets/desktop.svg" alt="Windose desktop: Task Manager, Medicine (C, Lua, Rust, Python, JS, web) and a JINE chat with Ame" width="100%"/>
 
 </div>
+
+### 💻 Software Engineer
+
+<div align="center">
+
+<img src="/assets/engineer.svg" alt="Software Engineer — Mirezepam: C++, Java, Python, Kotlin, Android, C, Rust, JavaScript, Lua, HTML/CSS, PHP, Git" width="100%"/>
+
+</div>
+
+> ✧ i'm a **software engineer** ♡ apps, backends, Android, tools, games… if it compiles, i can make it kawaii ✧
 
 ### 📡 Stream schedule
 

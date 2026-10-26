@@ -9,6 +9,7 @@
 > **ura_Mirezepam** · `@ura_Mirezepam` · 3:47 AM
 >
 > can't sleep again. so i code.<br/>
+> (i'm a **software engineer**. it's my job. it's also my coping mechanism.)<br/>
 > C and Lua for the engine, Rust for the bots, Python for the tools, a little web when i'm bored.<br/>
 > if you star a repo i'll pretend i'm not refreshing the page every 5 minutes.<br/>
 > (i am refreshing the page every 5 minutes.)
@@ -20,6 +21,17 @@
 <img src="/assets/desktop_ame.svg" alt="Windose at night: diary.txt, the prescription list of languages, and 37 unread JINE messages from Ame" width="100%"/>
 
 </div>
+
+### 💻 software engineer (by day)
+
+<div align="center">
+
+<img src="/assets/engineer_ame.svg" alt="resume.txt — Mirezepam, software engineer: C++, Java, Python, Kotlin, Android, C, Rust, JavaScript, Lua, HTML/CSS, PHP, Git" width="100%"/>
+
+</div>
+
+> i'm a **software engineer**. i build apps, backends, Android stuff and tools.<br/>
+> during the day everything works. at 3 AM i refactor everything and regret it.
 
 ### 💊 things i made instead of sleeping
 
