@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="270" viewBox="0 0 420 270">
+  <defs>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0" stop-color="#6b3cf0"/>
+      <stop offset="1" stop-color="#ff7ad9"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .t { font-family: 'Courier New', Courier, monospace; font-weight: 700; }
+    .flash { animation: f 2s ease-in-out infinite; }
+    @keyframes f { 50% { opacity: .35; } }
+  </style>
+  <rect x="4" y="4" width="412" height="262" rx="6" fill="#ffffff" stroke="#4d22cf" stroke-width="3"/>
+  <rect x="7" y="7" width="406" height="28" rx="3" fill="url(#bar)"/>
+  <text class="t" x="18" y="27" font-size="15" fill="#fff">⚙ Task Manager</text>
+  <rect x="10" y="38" width="400" height="224" fill="#f7efff"/>
+
+  <!-- rows: label, value, bar -->
+  <g class="t" font-size="14" fill="#4d22cf">
+    <text x="24" y="66">Followers</text>
+    <text x="396" y="66" text-anchor="end" fill="#3b2a6b">1 → 1,000,000</text>
+    <text x="24" y="116">Stress</text>
+    <text x="396" y="116" text-anchor="end" fill="#ff3d6e" class="flash">99 / 100</text>
+    <text x="24" y="166">Affection</text>
+    <text x="396" y="166" text-anchor="end" fill="#3b2a6b">100 / 100</text>
+    <text x="24" y="216">Mental Darkness</text>
+    <text x="396" y="216" text-anchor="end" fill="#3b2a6b">66 / 100</text>
+  </g>
+  <g>
+    <rect x="24" y="74" width="372" height="12" rx="6" fill="#e3d4ff"/>
+    <rect x="24" y="74" width="0" height="12" rx="6" fill="#9fd8ff"><animate attributeName="width" from="0" to="20" dur="1.4s" fill="freeze"/></rect>
+    <rect x="24" y="124" width="372" height="12" rx="6" fill="#e3d4ff"/>
+    <rect x="24" y="124" width="0" height="12" rx="6" fill="#ff3d6e"><animate attributeName="width" from="0" to="368" dur="1.6s" fill="freeze"/></rect>
+    <rect x="24" y="174" width="372" height="12" rx="6" fill="#e3d4ff"/>
+    <rect x="24" y="174" width="0" height="12" rx="6" fill="#ff7ad9"><animate attributeName="width" from="0" to="372" dur="1.8s" fill="freeze"/></rect>
+    <rect x="24" y="224" width="372" height="12" rx="6" fill="#e3d4ff"/>
+    <rect x="24" y="224" width="0" height="12" rx="6" fill="#6b3cf0"><animate attributeName="width" from="0" to="245" dur="2s" fill="freeze"/></rect>
+  </g>
+  <text class="t" x="210" y="256" font-size="11" fill="#9a86c9" text-anchor="middle">* stats are 100% real and not made up at all</text>
+</svg>
