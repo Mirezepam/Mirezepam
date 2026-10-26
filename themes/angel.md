@@ -26,11 +26,12 @@
 
 <div align="center">
 
-<img src="/assets/engineer.svg" alt="Software Engineer — Mirezepam: C++, Java, Python, Kotlin, Android, C, Rust, JavaScript, Lua, HTML/CSS, PHP, Git" width="100%"/>
+<img src="/assets/engineer.svg" alt="Software Engineer — Mirezepam: languages (C++, Java, Python, Kotlin, C, C#, Rust, JavaScript, TypeScript, SQL, Lua, PHP, HTML/CSS, Bash), backend & data (REST APIs, Node.js, MySQL, PostgreSQL, SQLite, Firebase), platforms & tools (Android, desktop, web, Linux, Git, GitHub, Docker, Unity, Gradle, CMake)" width="100%"/>
 
 </div>
 
-> ✧ i'm a **software engineer** ♡ apps, backends, Android, tools, games… if it compiles, i can make it kawaii ✧
+> ✧ i'm a **software engineer** ♡ i build **apps, backends, components and tools** — mobile, desktop and web ✧<br/>
+> if it compiles, i can make it kawaii ♡
 
 ### 📡 Stream schedule
 

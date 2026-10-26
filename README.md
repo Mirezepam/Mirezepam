@@ -26,11 +26,11 @@
 
 <div align="center">
 
-<img src="/assets/engineer_ame.svg" alt="resume.txt — Mirezepam, software engineer: C++, Java, Python, Kotlin, Android, C, Rust, JavaScript, Lua, HTML/CSS, PHP, Git" width="100%"/>
+<img src="/assets/engineer_ame.svg" alt="resume.txt — Mirezepam, software engineer: languages (C++, Java, Python, Kotlin, C, C#, Rust, JavaScript, TypeScript, SQL, Lua, PHP, HTML/CSS, Bash), backend & data (REST APIs, Node.js, MySQL, PostgreSQL, SQLite, Firebase), platforms & tools (Android, desktop, web, Linux, Git, GitHub, Docker, Unity, Gradle, CMake)" width="100%"/>
 
 </div>
 
-> i'm a **software engineer**. i build apps, backends, Android stuff and tools.<br/>
+> i'm a **software engineer**. i build **apps, backends, components and tools**. mobile, desktop, web. all of it.<br/>
 > during the day everything works. at 3 AM i refactor everything and regret it.
 
 ### 💊 things i made instead of sleeping
