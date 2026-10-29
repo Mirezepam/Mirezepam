@@ -38,9 +38,9 @@
 
 | | file | notes from ame |
 |:-:|---|---|
-| 🎮 | **NEEDY GIRL OVERDOSE 3DS** *(private)* | i put myself inside a Nintendo 3DS. two screens. no escape. |
-| 🤖 | **SCENE-BOT** *(private)* | a Discord bot that talks to people so i don't have to. Rust. |
-| 🌐 | [**LODORUM-front**](https://github.com/Mirezepam/LODORUM-front) | a website. it's fine. it's fine. |
+| 🎮 | **NEEDY GIRL OVERDOSE 3DS** | i put myself inside a Nintendo 3DS. two screens. no escape. |
+| 🤖 | **SCENE-BOT**  | a Discord bot that talks to people so i don't have to. Rust. |
+| 🌐 | 
 | 💌 | [**MirocHey**](https://github.com/Mirezepam/MirocHey) | a small page. please look at it. |
 | 🤖 | [**rei-bot**](https://github.com/Mirezepam/rei-bot) · [**TURBO-BOT-V3**](https://github.com/Mirezepam/TURBO-BOT-V3) | my first bots. they never left me. |
 
